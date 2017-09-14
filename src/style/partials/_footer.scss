@@ -1,0 +1,112 @@
+/*************************************
+Footer
+**************************************/
+footer{
+	margin-top: 47px;
+	width: 100%;
+	min-width:1135px;
+	background: url(../img/footer_bg2.png) center center no-repeat;
+
+	.footer-block{
+		margin: 0 auto;
+		width: 1105px;
+		padding: 0 15px;
+		height: 215px;
+		.foot_bg{
+			
+			.first_bl{
+				margin-bottom: 55px;
+				.obout{
+				padding: 45px 0 0 50px;
+				float: left;
+				a{
+					width: 160px;
+					display: block;
+					text-decoration: none;
+					color:  #ffffff;
+					font-size: 24px;
+					font-weight: 400;
+					line-height: 25px;
+					text-align: center;
+					text-transform: uppercase;
+					img{
+						vertical-align: bottom;
+					}
+					span{
+						margin: 0 0 5px 10px;
+					}
+				}
+			}
+			.buy{
+				float: left;
+				padding: 60px 0 0 200px;
+				a{
+					width: 300px;
+					display: block;
+					text-decoration: none;
+					color:  #ffffff;
+					font-size: 32px;
+					font-weight: 400;
+					line-height: 12.876px;
+					text-align: center;
+				}
+			}
+			}
+			.sec_bl{
+				.inf{
+				width: 215px;
+				margin: 15px 387px 0 0;
+				float: left;
+				color:  #606060;
+				font-size: 12px;
+				font-weight: 400;
+				text-align: left;
+				
+			}
+			}
+			.cont{
+				.mail{
+					float: left;
+					padding-top: 25px;
+					margin-right: 120px;
+					span{
+						margin-right: 15px;
+						color:  #ffffff;
+						font-size: 18px;
+						font-weight: 400;
+						text-align: left;
+						text-transform: uppercase;
+					}
+					a{
+						text-decoration: none;
+						color:  #ffffff;
+						font-size: 18px;
+						font-weight: 400;
+					}
+				}
+				
+			}
+			.download{
+				margin-top:25px;
+				padding-top: 25px;
+				a{
+					text-decoration: none;
+					color:  #ffffff;
+					font-size: 18px;
+					font-weight: 400;
+					padding: 10px 18px;
+
+					background:#828164;
+				}
+			}
+			
+		}
+
+	}
+	
+}
+
+
+/*************************************
+End footer
+**************************************/
