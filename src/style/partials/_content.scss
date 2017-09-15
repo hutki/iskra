@@ -6,6 +6,7 @@ Content
 	.ord_bg{
 		background:#eff2e7;
 		height: 628px;
+		margin-bottom: 30px;
 	}
 }
 .ordering{
@@ -94,7 +95,7 @@ Content
 						-webkit-border-radius: 50px;
 						border-radius: 58px;
 						vertical-align: middle;
-						box-shadow: 0 3px 10px 0px #000;
+						box-shadow: 2px 3px 2px -1px #333;
 						h2{
 						color: #000;
 						font-weight: lighter;
@@ -118,6 +119,48 @@ Content
 }
 .obout{
 	width:1200px;
-	margin:0 auto;
+	margin:80px auto 80px auto;
 	padding: 0 15px;
+	overflow:hidden;
+	.bl_text{
+		width: 637px;
+		float: left;
+		h2{
+			padding:10px 35px;
+			margin-bottom: 60px;
+			background:#b2d179;
+			color:  #fefefe;
+			font-size: 30px;
+			font-weight: 700;
+		}
+		p{
+			padding: 0 0 30px 35px;
+			font-size: 14px;
+			line-height: 24px;
+			color: #010101;
+		}
+		p:last-child{
+			padding-bottom: 0;
+		}
+		a{
+			text-decoration: none;
+			background: url(..//img/arrow2.png) 80% center no-repeat #b2d179;
+			color: #fefefe;
+			font-size: 12px;
+			padding: 10px 35px 10px 20px;
+
+		}
+	}
+	.bl_foto{
+		float: left;
+		width: 563px;
+		text-align: right;
+		position: relative;
+		img:last-child{
+			position:absolute;
+			bottom:20px;
+			right: 10px;
+			width: 85px;
+		}
+	}
 }
