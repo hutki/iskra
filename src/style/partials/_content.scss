@@ -53,38 +53,50 @@ Content
 						line-height: 284px;
 						.news{
 							background: url(../img/newspaper_icon.png) center 30% no-repeat #b2d179;
+							transition:0.25s;
 							&:hover{
 								background:url(../img/newspaper_icon.png) center 30% no-repeat #fff;
+								transition:0.25s;
 							}
 						}
 						.advertisement{
 							background: url(../img/marketing_icon.png) center 30% no-repeat #b2d179;
+							transition:0.25s;
 							&:hover{
 								background:url(../img/marketing_icon.png) center 30% no-repeat #fff;
+								transition:0.25s;
 							}
 						}
 						.documents{
 							background: url(../img/file_icon.png) center 30% no-repeat #b2d179;
+							transition:0.25s;
 							&:hover{
 								background:url(../img/file_icon.png) center 30% no-repeat #fff;
+								transition:0.25s;
 							}
 						}
 						.arrears{
 							background: url(../img/attention_icon.png) center 30% no-repeat #b2d179;
+							transition:0.25s;
 							&:hover{
 								background:url(../img/attention_icon.png) center 30% no-repeat #fff;
+								transition:0.25s;
 							}
 						}
 						.blog{
 							background: url(../img/blog_icon.png) center 30% no-repeat #b2d179;
+							transition:0.25s;
 							&:hover{
 								background:url(../img/blog_icon.png) center 30% no-repeat #fff;
+								transition:0.25s;
 							}
 						}
 						.gallery{
 							background: url(../img/photo-camera_icon.png) center 30% no-repeat #b2d179;
+							transition:0.25s;
 							&:hover{
 								background:url(../img/photo-camera_icon.png) center 30% no-repeat #fff;
+								transition:0.25s;
 							}
 						}
 					.price_block{
