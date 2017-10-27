@@ -170,3 +170,17 @@ Content
 		position: relative;
 	}
 }
+
+.content_block{
+	max-width: 1200px;
+	margin: 50px auto;
+	h2{
+		margin: 15px 0;
+	}
+	p{
+		margin-bottom: 15px;
+	}
+	p:last-child{
+		margin-bottom: 0;
+	}
+}
